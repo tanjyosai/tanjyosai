@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm **Arthur**, a **Cybersecurity Analyst** in training, currently completing the **Google Cybersecurity Professional Certificate**.
+I'm **Arthur**, a **Cybersecurity Analyst** in training, recently completed the **Google Cybersecurity Professional Certificate**.
 
 I specialize in **SOC operations** and **GRC (Governance, Risk, and Compliance)**. I enjoy bridge-building between technical security controls and business risk management.
 
